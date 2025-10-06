@@ -1,7 +1,7 @@
 #Q 1.1
 
-my_name <- "Abhishek Kanade"          # store charcter
-my_age <- 21                    # store numeric
+my_name <- "Prajakta Garade"          # store charcter
+my_age <- 20                       # store numeric
 is_student <- TRUE              # logical
 
 #Q 1.2
@@ -176,3 +176,4 @@ if (marks >= 90) {
 } else {
   print("Fail")
 }
+
